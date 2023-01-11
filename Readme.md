@@ -1,9 +1,17 @@
-# NativeBase Expo Template
+# Kredi
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+A mini mobile wallet
 
-## Usage
+### Setup
+
+Install dependencies and packages
 
 ```sh
-expo init my-app --template @native-base/expo-template
+yarn or npm install
+```
+
+Start development server
+
+```sh
+yarn start or npm start
 ```
